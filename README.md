@@ -48,27 +48,32 @@ void Update()
 ```
 
 + Post Processing으로 빛 번짐 효과 구현
+***
 
 ##### AudioVisualization 
 ![Alt text](https://postfiles.pstatic.net/MjAxOTEyMDRfOTQg/MDAxNTc1NDAyNzY1NjMy.JrM0ejepteE7aiKWcuolttBc-HF1ifkJp6zhiQaM_OMg.WaaESsJRqmKNnuhepg91bvAxAbVXIzhyxbiwZghWwksg.PNG.whdals410/UnityShader_Scene_AudioVisualization_1.png?type=w773)
 
 + 각 음역대에 따라 큐브의 크기를 조절하여 표현
 + 음 높이에 따라 색 변환
+***
 
 ##### BNT_Test
 ![Alt text](https://postfiles.pstatic.net/MjAxOTEyMDRfMjk5/MDAxNTc1NDAyNzY1NTMy.I7PGTm8QwU8y3a4yQFL_KrxuFWcqxsluHCbTiuNGxY0g.1plsBP0JZ4iXnPXhotx3x7PEnzIClX_7DK4yngXm3-Ig.PNG.whdals410/UnityShader_Scene_BNT_Test.png?type=w773)
 
 + 왼쪽 공에서 오른쪽 공으로 향하는 점선 표현
 + LineRenderer의 Material Shader를 제작해 C#파일로 조작
+***
 
 ##### ProceduralPhyllotaxis
 ![Alt text](https://postfiles.pstatic.net/MjAxOTEyMDRfNjYg/MDAxNTc1NDAyNzY1NTY4.CF76lgmtqwhoDRq99HxmKRRzC2sfnpz92uh9XANSKI4g.JoJGea_Fr8KuAAMCQDkgsFt6OX0g5yNeoyOhbRaXcHkg.PNG.whdals410/UnityShader_Scene_ProceduralPhyllotaxis.png?type=w773)
 + Trail Renderer의 속성을 이용해 기하학 무늬 생성
+***
 
 ##### ProceduralPhyllotaxis3
 ![Alt text](https://postfiles.pstatic.net/MjAxOTEyMDRfMTE2/MDAxNTc1NDAyNzY1Njc0.Df9y40a8tRFXat803XB4aMGBgID1GR0Drd4UcMQq9Bog.j_-Kc9IXa9ZyJzZ_W8H5EcEZzB0sEP-hWD5UFV5ORkYg.PNG.whdals410/UnityShader_Scene_ProceduralPhyllotaxis3.png?type=w773)
 + 음의 높낮이로 선을 긋는 속도 조절
 + 음의 높이가 높고, 소리가 클수록 더 빨리 그리게 구현
+***
 
 ##### Sample Scene
 ![Alt text](https://postfiles.pstatic.net/MjAxOTEyMDRfMjI1/MDAxNTc1NDAyNzY1NzMy.cpejjaGtg8lnHoXJ0T889G50kviyMGthurFTSD5WZZ4g.nQLMl9TKcIJGAPyyHpnqol2x4vNSZd27Dolkg08jwRAg.PNG.whdals410/UnityShader_Scene_SampleScene.png?type=w773)
