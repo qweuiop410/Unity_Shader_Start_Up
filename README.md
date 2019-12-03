@@ -9,8 +9,7 @@ AtomicAudioVisuals
 + 음악의소리에따라 반응하는 오브젝트 구현
 + 각 음역대에 따라 중심 공의 크기를 조절
 
-This is a normal paragraph:
-
+'''c#
 void SelectAudioValue()
     {
 	...
@@ -30,4 +29,4 @@ void SelectAudioValue()
             }
         }
     }
-end code block.
+'''
