@@ -3,8 +3,8 @@
 Unity Shader Start Up이라는 책과 유투브를 통해공부하고 실습한 파일 입니다.
 용도별로 분류해 스크립트, 쉐이더 파일을 적용했습니다
 
-C:\Users\KJM\Desktop
 ![Alt text](C:/Users/KJM/Desktop/aa_1.png)
+![Alt text](https://postfiles.pstatic.net/MjAxOTExMTFfNjAg/MDAxNTczNDUwMzM0NTU2.zAHMaOuvzyO3q_SihqAAplA3XqTuW-2sF8pcfjIgPOIg.BLDKbkTXJL9le46YJ-ub74_0vAlZDyN82auKtbKUgZQg.JPEG.whdals410/cloudy.jpg?type=w773)
 
 #### Scene
 
